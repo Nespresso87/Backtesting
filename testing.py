@@ -1,0 +1,7 @@
+data = yf.download('TSLA', period='60d', interval='15m')
+#data = yf.download('QQQ', period='60d', interval='15m')
+#data = yf.download('QQQ', period='60d', interval='5m')
+#data = yf.download('GOOGL', period='1y', interval='1d')
+#data = yf.download('QQQ', period='7d', interval='1m')
+#data = yf.download('GOOGL', period='100d', interval='1H')
+#data = yf.download('GOOGL', period='60d', interval='90m')
